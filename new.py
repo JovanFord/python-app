@@ -23,5 +23,4 @@ for x in t:
     print (x)
     if x == 'm':
         break
-while x < 5:
-    print(7)
+print(7)
