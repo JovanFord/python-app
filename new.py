@@ -23,4 +23,3 @@ for x in t:
     print (x)
     if x == 'm':
         break
-print(7)
